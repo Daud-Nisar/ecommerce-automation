@@ -117,7 +117,7 @@ python_files = test_*.py
 python_functions = test_*
 addopts = -v
 ```
- **👨‍💻 Author**
+ # 👨‍💻 Author
 **Daud Nisar**
 Python Automation Developer
 
