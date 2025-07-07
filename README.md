@@ -41,7 +41,8 @@ ecommerce-automation/
 ├── pytest.ini # Pytest config
 ├── requirements.txt # Dependencies
 ├── .gitignore # Ignore venv/.idea/pycache
-└── README.md # You're reading it :)  ```
+└── README.md # You're reading it :)
+```
 
 
 
