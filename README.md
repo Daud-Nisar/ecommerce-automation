@@ -108,7 +108,7 @@ pytest
 webdriver-manager
 pytest-order
 ```
----
+
 ## 🧪 Pytest Configuration (pytest.ini)
 ```bash
 [pytest]
@@ -121,7 +121,7 @@ addopts = -v
 Python Automation Developer
 GitHub: @Daud-Nisar
 
----
+
 ## ⭐️ Support
 
 If you liked this project:
