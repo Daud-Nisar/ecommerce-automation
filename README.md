@@ -27,7 +27,7 @@ This project automates the **Signup** and **Login** workflows of an ecommerce we
 ---
 
 ## 📁 Project Structure
-
+ ```
 ecommerce-automation/
 ├── tests/
 │ ├── test_signup.py # Signup automation (with data save)
