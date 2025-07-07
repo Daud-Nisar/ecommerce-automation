@@ -42,3 +42,16 @@ ecommerce-automation/
 ├── requirements.txt # Dependencies
 ├── .gitignore # Ignore venv/.idea/pycache
 └── README.md # You're reading it :)
+
+
+
+---
+
+## 🧾 Setup Instructions
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/yourusername/ecommerce-automation.git
+cd ecommerce-automation
+
