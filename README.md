@@ -30,18 +30,18 @@ This project automates the **Signup** and **Login** workflows of an ecommerce we
  ```
 ecommerce-automation/
 ├── tests/
-│ ├── test_signup.py # Signup automation (with data save)
-│ ├── test_login.py # Login automation (reads data)
+│ ├── test_signup.py #Signup automation (with data save)
+│ ├── test_login.py #Login automation (reads data)
 │ └── init.py
 ├── utils/
-│ ├── driver_setup.py # get_driver() using Chrome + manager
+│ ├── driver_setup.py #get_driver() using Chrome + manager
 │ └── init.py
-├── conftest.py # Pytest fixture for browser
-├── temp_login_data.json # Auto-generated user credentials
-├── pytest.ini # Pytest config
+├── conftest.py #Pytest fixture for browser
+├── temp_login_data.json #Auto-generated user credentials
+├── pytest.ini #Pytest config
 ├── requirements.txt # Dependencies
-├── .gitignore # Ignore venv/.idea/pycache
-└── README.md # You're reading it :)
+├── .gitignore #Ignore venv/.idea/pycache
+└── README.md #You're reading it :)
 ```
 
 
