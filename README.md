@@ -57,13 +57,15 @@ git clone https://github.com/Daud-Nisar/ecommerce-automation
 cd ecommerce-automation
 ```
 ### 2.Create and activate virtual environment (optional)
-
+**👉 On Windows:**
+```
 python -m venv venv
- **On Windows**
 venv\Scripts\activate
-**On macOS/Linux**
+```
+**👉 On macOS / Linux:**
+```
 source venv/bin/activate
-
+```
 ### 3. Install dependencies
 ```bash
 pip install -r requirements.txt
